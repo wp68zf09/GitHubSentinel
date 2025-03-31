@@ -34,3 +34,4 @@ The configuration file `config.json` should contain the following settings:
     "update_interval": 86400
 }
 ```
+# GitHubSentinel
