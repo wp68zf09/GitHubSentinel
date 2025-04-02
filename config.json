@@ -1,0 +1,9 @@
+{
+    "notification_settings": {
+        "email": "2046448314@qq.com.com",
+        "slack_webhook_url": "your_slack_webhook_url"
+    },
+    "subscriptions_file": "subscriptions.json",
+    "update_interval": 86400
+}
+gi
