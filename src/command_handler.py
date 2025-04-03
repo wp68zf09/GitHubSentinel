@@ -1,9 +1,12 @@
 # src/command_handler.py
 
 import argparse
+from github_client import GitHubClient
+
+from report_generator import ReportGenerator
 
 class CommandHandler:
-    def __init__(self, github_client, subscription_manager, report_generator):
+    def __init__(self, github_client:GitHubClient, subscription_manager, report_generator: ReportGenerator):
         self.github_client = github_client
         self.subscription_manager = subscription_manager
         self.report_generator = report_generator
