@@ -5,7 +5,7 @@ import datetime
 import os
 class GitHubClient:
     def __init__(self, token):
-        self.token = token
+        self.token = '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'
         self.headers = {'Authorization': f'token {self.token}'}
 
     def fetch_updates(self, repo):
