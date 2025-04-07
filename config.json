@@ -1,4 +1,5 @@
 {
+
     "notification_settings": {
         "email": "2046448314@qq.com",
         "slack_webhook_url": "your_slack_webhook_url"
