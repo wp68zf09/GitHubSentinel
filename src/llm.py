@@ -3,6 +3,7 @@ import requests
 from openai import OpenAI  # 导入OpenAI库用于访问GPT模型
 from logger import LOG  # 导入日志模块
 
+
 class LLM:
     def __init__(self, config):
         """
