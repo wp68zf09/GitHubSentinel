@@ -1,11 +1,11 @@
 {
     "github_token": "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",
     "email":  {
-        "smtp_server": "smtp.exmail.qq.com",
+        "smtp_server": "smtp.qq.com",
         "smtp_port": 465,
-        "from": "pjt@zaijidata.com",
-        "password": "",
-        "to": "test@zaijidata.com"
+        "from": "2046448314@qq.com",
+        "password": "lgnlcffdvlmzbjej",
+        "to": "2046448314@qq.com"
     },
     "slack_webhook_url": "your_slack_webhook_url",
     "subscriptions_file": "subscriptions.json",
